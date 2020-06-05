@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotepadApp with ROOM</string>
+    <string name="title_string">title</string>
+    <string name="date_string_textView">Date</string>
+</resources>
