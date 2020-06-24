@@ -21,6 +21,16 @@ To delete note. Hold the note and drag the note left.
 
 ## Colors
 
+<br>
+<br>
+
+![Gradient Start (8)](https://user-images.githubusercontent.com/66402503/85566810-a750d780-b630-11ea-9a13-40f41794ae62.png)
+![Gradient Start (9)](https://user-images.githubusercontent.com/66402503/85566921-bafc3e00-b630-11ea-890d-7c954ac6d167.png)
+![Gradient Start (10)](https://user-images.githubusercontent.com/66402503/85567021-cf403b00-b630-11ea-8fdc-ccc947aa1dce.png)
+
+<br>
+<br>
+
 ## Icon
 
 ![ic_launcher_notepad](https://user-images.githubusercontent.com/66402503/85566224-242f8180-b630-11ea-85f5-cf23251198c9.png)
